@@ -9,7 +9,7 @@ Se puede observar como GitHub puede actuar como host para nuestros documentos ht
 
 Empecemos introduciendo una imagen al documento.
 
-![Imagen](C:\Users\rahogar\Pictures\flamenco_agua.jpg)
+![Imagen](https://guilleatm.github.io/demo-web/assets/img/my-profile-img.jpg)
 
 Ahora hacemos una lista desordenada de películas.
 
