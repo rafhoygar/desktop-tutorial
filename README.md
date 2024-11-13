@@ -2,13 +2,14 @@
 
 *[Este](https://github.com) es un enlace a la web de GitHub.
 
-*En [esta otra página web](https://guilleatm.github.io/demo-web/) se encuentra la otra versión de documento Markdown, realizada con html y css.
+*En [esta otra página web](https://rafhoygar.github.io/demo-web-main/) encontramos una web demo realizada con html, css y javascript.
+Se puede observar como GitHub puede actuar como host para nuestros documentos html.
 
 >Esta es una *página de prueba* para aprender a utilizar **markdown**.
 
 Empecemos introduciendo una imagen al documento.
 
-![Imagen](https://guilleatm.github.io/demo-web/assets/img/my-profile-img.jpg)
+![Imagen](C:\Users\rahogar\Pictures\flamenco_agua.jpg)
 
 Ahora hacemos una lista desordenada de películas.
 
